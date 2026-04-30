@@ -1,9 +1,0 @@
-const String kSplashScreenRoute = '/SPLASH_SCREEN_ROUTE';
-const String kSplashScreen2Route = '/SPLASH_SCREEN_2_ROUTE';
-const String kSignupScreenRoute = '/SIGNUP_SCREEN_ROUTE';
-const String kLoginScreenRoute = '/LOGIN_SCREEN_ROUTE';
-const String kMainNavigationRoute = '/MAIN_NAVIGATION_ROUTE';
-const String kHomeScreenRoute = '/HOME_SCREEN_ROUTE';
-const String kProductDetailsRoute = '/PRODUCT_DETAILS_ROUTE';
-const String kProfileScreenRoute = '/PROFILE_SCREEN_ROUTE';
-const String kCartScreenRoute = '/CART_SCREEN_ROUTE';
